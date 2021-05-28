@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valekar
 - 👀 I’m interested in Blockchain and building Dapps
-- 🌱 I’m currently learning Rust so that one I could efficiently use Substrate Framework - Which is used for building blockchains
+- 🌱 I’m currently learning Rust so that one I could efficiently use Solana blockchain
 - 💞️ I’m looking to collaborate on Rust related topics, particularly anything related to blockchain
 - 📫 How to reach me - reach me via developer.valekar@gmail.com
 
